@@ -1,6 +1,6 @@
 # Flutter Portfolio Website
 
-A modern portfolio website built with Flutter Web, inspired by [anubhav055.github.io](https://anubhav055.github.io/).
+A modern portfolio website built with Flutter Web, 
 
 ## Setup Instructions
 
